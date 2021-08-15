@@ -1,4 +1,4 @@
-# APDU to APDU C# byte array transformation tool
+# APDU to C# byte array transformation tool
 A simple transformation tool for converting an APDU command to a C# byte array.
 
 ## Example
